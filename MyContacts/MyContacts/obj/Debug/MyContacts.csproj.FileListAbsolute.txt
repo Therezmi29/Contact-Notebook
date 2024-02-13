@@ -1,0 +1,65 @@
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\obj\Debug\MyContacts.csprojAssemblyReference.cache
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+F:\C#\TopLearn.Com_Csharp_Part20\MyContacts\MyContacts\obj\Debug\MyContacts.frmAddOrEdit.resources
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.csprojAssemblyReference.cache
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.frmAddOrEdit.resources
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+F:\C#\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.AssemblyReference.cache
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.frmAddOrEdit.resources
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\reza2\Desktop\TopLearn.Com_Csharp_Part21\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.AssemblyReference.cache
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.frmAddOrEdit.resources
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\reza2\Desktop\projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.AssemblyReference.cache
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.frmAddOrEdit.resources
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\reza2\Desktop\projects\main-projects\c# contact form app\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
